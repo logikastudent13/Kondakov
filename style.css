@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+}
+nav{
+    font-size:30px;
+    text-align: center;
+}
+h1{
+    background-color: lightblue;
+    border-radius:230px;
+}
+header h1{
+    font-size: 50px;
+    color:navy;
+}
+nav a{
+    background-color: aqua;
+    border-radius:60px ;
+    padding:10px;
+}
+p{
+    font-size: 20px;
+    border:3px solid blue;
+    padding:5px;
+}
+body{
+    font-family: Comic Sans MS;
+    background-color: PowderBlue;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+.image{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+.text{
+    background-color:RoyalBlue;
+}
+p{
+    color:white;
+}
